@@ -1,39 +1,71 @@
 {
-    "name": "nodebb-theme-simple",
-    "version": "1.1.1",
-    "description": "简单主题FOR NODEBB",
-    "main": "theme.less",
-    "keywords": [
-        "nodebb",
-        "theme"
-    ],
-    "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/y3398/nodebb-theme-simple.git"
+  "_from": "nodebb-theme-persona@10.3.17",
+  "_id": "nodebb-theme-persona@10.3.17",
+  "_inBundle": false,
+  "_integrity": "sha512-qmKZ5Jnkb7fKpTEXQu+LoV4ppj84EJUA8YpZxK6pTesnD+W4DY5AJjIyfBVYfsiQEBNyiCbUAydfTmzmLbk6rA==",
+  "_location": "/nodebb-theme-persona",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "nodebb-theme-persona@10.3.17",
+    "name": "nodebb-theme-persona",
+    "escapedName": "nodebb-theme-persona",
+    "rawSpec": "10.3.17",
+    "saveSpec": null,
+    "fetchSpec": "10.3.17"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nodebb-theme-persona/-/nodebb-theme-persona-10.3.17.tgz",
+  "_shasum": "cf6cde9aa7e22319bf0869f7643fcd5d94310cac",
+  "_spec": "nodebb-theme-persona@10.3.17",
+  "_where": "E:\\丽海弘金\\a-自用材料\\开发\\弘金量化云\\nodebb",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-theme-persona/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Andrew Rodrigues",
+      "email": "andrew@designcreateplay.com",
+      "url": "https://github.com/psychobunny"
     },
-    "husky": {
-        "hooks": {
-            "pre-commit": "npx lint-staged",
-            "commit-msg": "npx commitlint -E HUSKY_GIT_PARAMS"
-        }
+    {
+      "name": "Julian Lam",
+      "email": "julian@designcreateplay.com",
+      "url": "https://github.com/julianlam"
     },
-    "lint-staged": {
-        "*.js": [
-            "eslint --fix",
-            "git add"
-        ]
-    },
-    "dependencies": {
-        "bent": "^7.3.12"
-    },
-    "devDependencies": {
-        "@commitlint/cli": "11.0.0",
-        "@commitlint/config-angular": "11.0.0",
-        "eslint": "7.18.0",
-        "eslint-config-airbnb-base": "14.2.1",
-        "eslint-plugin-import": "2.22.1",
-        "husky": "5.0.9",
-        "lint-staged": "10.5.4"
+    {
+      "name": "Barış Soner Uşaklı",
+      "email": "baris@designcreateplay.com",
+      "url": "https://github.com/barisusakli"
     }
+  ],
+  "dependencies": {
+    "pulling": "^2.0.0",
+    "striptags": "^3.1.1"
+  },
+  "deprecated": false,
+  "description": "Persona theme for NodeBB",
+  "homepage": "https://github.com/psychobunny/nodebb-theme-persona#readme",
+  "keywords": [
+    "nodebb",
+    "theme",
+    "forum",
+    "bootstrap",
+    "responsive"
+  ],
+  "license": "BSD-2-Clause",
+  "main": "theme.less",
+  "name": "nodebb-theme-persona",
+  "nbbpm": {
+    "compatibility": "^1.16.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psychobunny/nodebb-theme-persona.git"
+  },
+  "version": "10.3.17"
 }
