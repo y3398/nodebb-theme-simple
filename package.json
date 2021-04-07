@@ -7,7 +7,7 @@
     "license": "MIT",
 	"repository": {
 	    "type": "git",
-	    "url": "https://github.com/NodeBB/NodeBB/"
+	    "url": "https://github.com/y3398/nodebb-theme-simple.git"
 	  },
     "husky": {
         "hooks": {
