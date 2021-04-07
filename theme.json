@@ -1,7 +1,7 @@
 {
-    "id": "nodebb-theme-simple",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
-    "url": "https://github.com/wangchh/nodebb-theme-simple",
-	"screenshot": "screenshot.png"
+    "id": "nodebb-theme-persona",
+    "name": "Persona",
+    "description": "The default theme for NodeBB. Uses a standard approach to forum design.",
+    "url": "https://github.com/psychobunny/nodebb-theme-persona",
+    "screenshot": "screenshot.png"
 }
