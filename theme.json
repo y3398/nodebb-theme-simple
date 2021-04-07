@@ -1,0 +1,7 @@
+{
+    "id": "nodebb-theme-simple",
+    "name": "My Theme Name",
+    "description": "Enter a description here",
+    "url": "https://github.com/wangchh/nodebb-theme-simple",
+	"screenshot": "screenshot.png"
+}
