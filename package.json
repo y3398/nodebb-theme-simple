@@ -20,7 +20,7 @@
   ],
   "license": "BSD-2-Clause",
   "main": "theme.less",
-  "name": "nodebb-theme-persona",
+  "name": "nodebb-theme-simple",
   "nbbpm": {
     "compatibility": "^1.16.0"
   },
