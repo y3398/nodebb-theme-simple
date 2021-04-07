@@ -7,7 +7,6 @@
         "nodebb",
         "theme"
     ],
-    // "license": "MIT",
     "repository": {
         "type": "git",
         "url": "https://github.com/y3398/nodebb-theme-simple.git"
