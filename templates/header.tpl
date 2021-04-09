@@ -29,7 +29,7 @@
 		<!-- IMPORT partials/chats-menu.tpl -->
 	</nav>
 
-	<main id="panel" class="slideout-panel">
+	<main id="panel" class="slideout-panel" style="min-height: calc(100vh - 470px);">
 		<nav class="navbar navbar-default navbar-fixed-top header" id="header-menu" component="navbar">
 			<div class="container">
 				<!-- IMPORT partials/menu.tpl -->
